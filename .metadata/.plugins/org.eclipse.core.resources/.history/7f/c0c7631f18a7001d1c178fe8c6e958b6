@@ -27,8 +27,8 @@
     	
     	<property name="fortuneService" ref="myFortureService"/>
     	
-    	<property name="emailAddress" value="${foo.email}"/>
-    	<property name="team" value="${foo.team}"/>
+    	<property name="emailAddress" value="thebestcoatch@luv2code.com"/>
+    	<property name="team" value="Sunrisers Hyderabad"/>
     </bean>
     
     
